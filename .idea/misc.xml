@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/10/AndroidStudioProjects/Kitaabaafaanoromookutaa8ffaa/app/src/main/res/layout/activity_about.xml" value="0.2598958333333333" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/Kitaabaafaanoromookutaa8ffaa/app/src/main/res/layout/activity_book_detail.xml" value="0.2598958333333333" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/Kitaabaafaanoromookutaa8ffaa/app/src/main/res/layout/main_item_list.xml" value="0.2598958333333333" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/Kitaabaafaanoromookutaa8ffaa/app/src/main/res/layout/nav_header_layout.xml" value="0.2598958333333333" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/Kitaabaherregakutaa8ffaa/app/src/main/res/layout/activity_book_detail.xml" value="0.12639311043566362" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/nav_header_bg.xml" value="0.12" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/starter/app/src/main/res/layout/activity_about.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/starter/app/src/main/res/layout/activity_boo_kdetail.xml" value="0.2598958333333333" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/starter/app/src/main/res/layout/activity_book_detail.xml" value="0.2598958333333333" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/starter/app/src/main/res/layout/activity_drawer_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/starter/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/starter/app/src/main/res/layout/activity_splash.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/starter/app/src/main/res/layout/book_detail_item_list.xml" value="0.2123931623931624" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/starter/app/src/main/res/layout/main_item_list.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/starter/app/src/main/res/layout/nav_header_layout.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/starter/app/src/main/res/menu/main_menu.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

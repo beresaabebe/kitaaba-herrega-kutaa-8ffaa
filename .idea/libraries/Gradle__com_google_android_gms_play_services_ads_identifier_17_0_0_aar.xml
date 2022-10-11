@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-ads-identifier:17.0.0@aar">
+    <CLASSES>
+      <root url="file://E:/New files need to be edited/WollegaUniversity2/.gradle/caches/transforms-3/a1adf5c051f535225b58f282eaacff2c/transformed/play-services-ads-identifier-17.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a1adf5c051f535225b58f282eaacff2c/transformed/play-services-ads-identifier-17.0.0/res" />
+      <root url="file://E:/New files need to be edited/WollegaUniversity2/.gradle/caches/transforms-3/e3b36759b3c7a723e2c50f318b90bea0/transformed/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml" />
+      <root url="jar://E:/New files need to be edited/WollegaUniversity2/.gradle/caches/transforms-3/e3b36759b3c7a723e2c50f318b90bea0/transformed/jetified-play-services-ads-identifier-17.0.0/jars/classes.jar!/" />
+      <root url="file://E:/New files need to be edited/WollegaUniversity2/.gradle/caches/transforms-3/e3b36759b3c7a723e2c50f318b90bea0/transformed/jetified-play-services-ads-identifier-17.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

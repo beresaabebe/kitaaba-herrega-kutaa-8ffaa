@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement-sdk-api:20.1.2@aar">
+    <CLASSES>
+      <root url="file://E:/New files need to be edited/WollegaUniversity2/.gradle/caches/transforms-3/96b10086d299e134bba0ac5dccf97e88/transformed/play-services-measurement-sdk-api-20.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/96b10086d299e134bba0ac5dccf97e88/transformed/play-services-measurement-sdk-api-20.1.2/res" />
+      <root url="file://E:/New files need to be edited/WollegaUniversity2/.gradle/caches/transforms-3/773c95d9ec37f665cb3068ead2659adc/transformed/jetified-play-services-measurement-sdk-api-20.1.2/res" />
+      <root url="file://E:/New files need to be edited/WollegaUniversity2/.gradle/caches/transforms-3/773c95d9ec37f665cb3068ead2659adc/transformed/jetified-play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml" />
+      <root url="jar://E:/New files need to be edited/WollegaUniversity2/.gradle/caches/transforms-3/773c95d9ec37f665cb3068ead2659adc/transformed/jetified-play-services-measurement-sdk-api-20.1.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/New files need to be edited/WollegaUniversity2/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-sdk-api/20.1.2/ace98f39b262c59be4be4d52b871d1ba5dfff723/play-services-measurement-sdk-api-20.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
